@@ -1,4 +1,4 @@
-<h1 align="center"> Devlins Yury Chagas </h1>
+<h1 align="center"> Devlinks Yury Chagas </h1>
 
 <p align="center">
 Projeto Realizado após o curso discover da Rocketseat, ministrado por Mayk Brito. <br/>
