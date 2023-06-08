@@ -44,12 +44,12 @@ body {
 }
 
 #profile img {
-  width: 150px;
+  width: 100px;
 }
 
 #profile p {
-  font-size: 18px;
-  font-weight: 500;
+  font-size: 14px;
+  font-weight: 400;
   color: var(--text-color);
 }
 
@@ -103,7 +103,7 @@ ul{
   list-style: none;
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 20px;
   padding: 24px 16px;
 }
 
@@ -112,11 +112,12 @@ ul li a {
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 400;
+  font-size: 15px;
   gap: 8px;
   color: var(--text-color);
 
-  padding: 24px 24px;
+  padding: 16px 16px;
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
   border-radius: 8px;
@@ -143,6 +144,7 @@ footer {
 }
 footer p {
   color: var(--text-color);
+  font-size: 12px;
 }
 
 /* media queries */
